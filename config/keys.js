@@ -1,3 +1,3 @@
-module.exports = {
-  mongoURI: 'mongodb://brad:brad@ds231725.mlab.com:31725/devconnector'
-};
+// module.exports = {
+//   mongoURI: 'mongodb+srv://abc:abc@cluster0-ijzyo.mongodb.net/test?retryWrites=true&w=majority'
+// };
